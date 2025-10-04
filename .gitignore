@@ -1,2 +1,3 @@
 venv/
 duckdb-play.db
+*log
